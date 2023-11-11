@@ -23,7 +23,7 @@ $colors: (
   "white": white,
 );
 
-@debug map-get($colors, "purple");
+/* @debug map-get($colors, "purple");
 @debug map-has-key($colors, "secondary");
 @debug map-has-key($colors, "tertiary");
 @debug map-remove($colors, "primary");
@@ -32,7 +32,7 @@ $colors: (
   (
     "pink": #ffc0cb,
   )
-);
+); */
 
 $base-padding: 0.75rem;
 $base-margin: 0.75rem;
